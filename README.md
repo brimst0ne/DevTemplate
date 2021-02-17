@@ -1,2 +1,2 @@
 # DevTemplate
-Template repository for study projects
+Template repository for study projects.
