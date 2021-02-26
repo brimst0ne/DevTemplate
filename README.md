@@ -16,4 +16,4 @@ Template for developing and testing C++ programs
  git rebase master
 ```
 ## Build project with cmake
-cmake -G "Visual Studio 15 2019" 
+cmake -G "Visual Studio 15 2019"  (check the year of your Visual Studio version, it may vary)
