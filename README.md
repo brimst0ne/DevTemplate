@@ -1,2 +1,1 @@
-# DevTemplate
-Template repository for study projects.
+# Development-Template-2-4-2021
