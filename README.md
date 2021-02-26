@@ -1,5 +1,5 @@
 # Arabic/Roman numbers converter lab
-Template for developing and testing C++ programs 
+A C++ program that converts roman numbers to arabic format and vice versa
 
 * Build system: cmake
 * Tests: gtest
