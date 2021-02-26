@@ -58,13 +58,11 @@ int main(){
             break;
         }
         case 3: {
-            string filename, spec;
-            spec = "F:\\";
+            string filename;
             cout << "Please enter the name of text file you want to open: ";
             cin >> filename;
-            spec += filename;
             ifstream file;
-            file.open(spec);
+            file.open(filename);
             number.ChangeFileDates(file);
             cout << endl;
             break;
